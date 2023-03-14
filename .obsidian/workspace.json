@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "a6c6519ce5dd38db",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad35474480b49212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc24bd0eb4e8a868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/BMW Ad Sanremo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccd8eeea836badf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c803be5c6a9c1a6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2c6e5868c506f20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3084e4d838641f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5cc0886dadad651",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "215599995ff4168d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47c2fdcb14f7d80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e2771d849ce78d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zettelkasten/BMW Ad Sanremo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fae7c5e6e8b16c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zettelkasten/BMW Ad Sanremo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d70b64025b6a05cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5336d0ff31b8675",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zettelkasten/BMW Ad Sanremo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dc24bd0eb4e8a868",
+  "lastOpenFiles": [
+    "zettelkasten/references/Interactive videogame essay.md",
+    "zettelkasten/references/Prolog.md",
+    "zettelkasten/references/Algor Education.md",
+    "zettelkasten/references/Akoma Ntoso.md",
+    "zettelkasten/references",
+    "zettelkasten/references/Millepiani.md",
+    "zettelkasten/BMW Ad Sanremo.md",
+    "_templates/_zettel.md",
+    "zettelkasten/nrew.md",
+    "zettelkasten/first note.md",
+    "zettelkasten/new note.md",
+    "zettelkasten/Note.md",
+    "zettelkasten/My first note.md",
+    "zettelkasten/Mimmo.md",
+    "zettelkasten/˜.md",
+    "zettelkasten/sad.md",
+    "_files",
+    "zettelkasten",
+    "_templates"
+  ]
+}

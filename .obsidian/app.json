@@ -1,0 +1,9 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "zettelkasten",
+  "attachmentFolderPath": "_files",
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    "_templates/"
+  ]
+}
