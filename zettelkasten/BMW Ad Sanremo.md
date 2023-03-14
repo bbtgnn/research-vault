@@ -1,6 +1,6 @@
 **Created** – 2023-03-14 12:50
 **Status** – #idea
-**Tags** – #comunicazione
+**Tags** – [[Comunicazione]]
 
 ---
 

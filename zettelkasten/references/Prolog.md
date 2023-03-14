@@ -1,6 +1,6 @@
 **Created** – 2023-03-14 12:57
 **Status** – #idea
-**Tags** – [[Reference]] [[Code]]
+**Tags** – [[Reference]] [[Tool]]
 
 ---
 

@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "ad35474480b49212",
+        "id": "f16fe08c88148fe1",
         "type": "tabs",
         "children": [
           {
-            "id": "dc24bd0eb4e8a868",
+            "id": "7fb566e6a342ea36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/BMW Ad Sanremo.md",
+                "file": "zettelkasten/Diagrammi Kandinsky.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5201b6759f6bd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Psicologo per ragazzi dislessici.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ce564484f4e86b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/references/Sli.dev.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#comunicazione",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/BMW Ad Sanremo.md",
+                "file": "zettelkasten/Diagrammi Kandinsky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/BMW Ad Sanremo.md",
+                "file": "zettelkasten/Diagrammi Kandinsky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/BMW Ad Sanremo.md"
+                "file": "zettelkasten/Diagrammi Kandinsky.md"
               }
             }
           }
@@ -147,26 +171,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc24bd0eb4e8a868",
+  "active": "7fb566e6a342ea36",
   "lastOpenFiles": [
-    "zettelkasten/references/Interactive videogame essay.md",
-    "zettelkasten/references/Prolog.md",
+    "zettelkasten/Relazione tra documentazione e interfaccia.md",
+    "zettelkasten/Diagrammi Kandinsky.md",
+    "_files/diagramma-kandinsky-2.jpeg",
+    "_files/diagramma-kandinsky-1.jpeg",
+    "zettelkasten/A volte rispettare le regole non è sempre l'opzione migliore.md",
+    "zettelkasten/Accessibilità per qualcuno -> Accessibilità per tutti (più o meno).md",
+    "zettelkasten/Psicologo per ragazzi dislessici.md",
+    "zettelkasten/Insegnare software sulla base delle necessità dello studente.md",
+    "zettelkasten/Testi da strutturare.md",
+    "zettelkasten/App per database – strutturazione testi.md",
+    "zettelkasten/App.md",
+    "zettelkasten/Proporsi come Information Designer.md",
+    "_files/norme-piano-regolatore-polignano.pdf",
+    "zettelkasten/Problemi di etichetta.md",
+    "zettelkasten/Introduction to logic.md",
+    "zettelkasten/Giochi linguistici.md",
+    "zettelkasten/La bruschezza della burocrazia.md",
+    "zettelkasten/references/CMAP docs.md",
+    "zettelkasten/Scrittura attiva e passiva.md",
+    "zettelkasten/Domain-driven design.md",
+    "zettelkasten/Corso CB.md",
+    "zettelkasten/references/The Design of Everyday Things.md",
+    "zettelkasten/references/Sli.dev.md",
+    "zettelkasten/references/Housatonic.md",
+    "zettelkasten/references/Argdown.md",
     "zettelkasten/references/Algor Education.md",
     "zettelkasten/references/Akoma Ntoso.md",
+    "zettelkasten/Cartello Polimnia.md",
+    "zettelkasten/Tool.md",
+    "zettelkasten/references/Untitled",
+    "_files/cartello-polimina.jpg",
+    "_files/poster-ruvo.jpeg",
+    "_files/dyne-org-public-facilitation.pdf",
+    "_files/mappatura-ex-opg.pdf",
+    "_files/legge-canile.pdf",
+    "zettelkasten/sos/Untitled",
+    "zettelkasten/sos",
+    "zettelkasten/Untitled/Untitled",
     "zettelkasten/references",
-    "zettelkasten/references/Millepiani.md",
-    "zettelkasten/BMW Ad Sanremo.md",
-    "_templates/_zettel.md",
-    "zettelkasten/nrew.md",
-    "zettelkasten/first note.md",
-    "zettelkasten/new note.md",
-    "zettelkasten/Note.md",
-    "zettelkasten/My first note.md",
-    "zettelkasten/Mimmo.md",
-    "zettelkasten/˜.md",
-    "zettelkasten/sad.md",
-    "_files",
-    "zettelkasten",
-    "_templates"
+    "_files"
   ]
 }
