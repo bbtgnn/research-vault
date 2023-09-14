@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Corso CB.md",
+                "file": "zettelkasten/references/Argdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "de906a5635fe9295",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 477.5
   },
   "right": {
     "id": "215599995ff4168d",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Corso CB.md",
+                "file": "zettelkasten/references/Argdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Corso CB.md",
+                "file": "zettelkasten/references/Argdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Corso CB.md"
+                "file": "zettelkasten/references/Argdown.md"
               }
             }
           }
@@ -147,42 +155,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ee0d8530c710567",
+  "active": "d2c6e5868c506f20",
   "lastOpenFiles": [
-    "zettelkasten/Problemi di etichetta.md",
-    "zettelkasten/references/Housatonic.md",
-    "_files/legge-canile.pdf",
-    "zettelkasten/references/Sli.dev.md",
-    "zettelkasten/Psicologo per ragazzi dislessici.md",
-    "zettelkasten/Diagrammi Kandinsky.md",
+    "zettelkasten/references/Algor Education.md",
+    "zettelkasten/references/Argdown.md",
+    "zettelkasten/Information Design.md",
+    "zettelkasten/references/Prolog.md",
+    "zettelkasten/Unificare le app immaginate.md",
+    "zettelkasten/Tool.md",
+    "zettelkasten/Testi da strutturare.md",
+    "zettelkasten/Tempo infusione del té.md",
+    "zettelkasten/Sito.md",
+    "zettelkasten/Scrittura attiva e passiva.md",
     "zettelkasten/Relazione tra documentazione e interfaccia.md",
+    "zettelkasten/Psicologo per ragazzi dislessici.md",
+    "zettelkasten/Proporsi come Information Designer.md",
+    "zettelkasten/Problemi di etichetta.md",
+    "zettelkasten/Poster serata danzante.md",
+    "zettelkasten/Pagina per presentare tesi.md",
+    "zettelkasten/La bruschezza della burocrazia.md",
+    "zettelkasten/Introduction to logic.md",
+    "zettelkasten/Insegnare software sulla base delle necessità dello studente.md",
+    "zettelkasten/I lupini di Nives.md",
+    "zettelkasten/Giochi linguistici.md",
+    "zettelkasten/Filo.md",
+    "zettelkasten/Esercitazione testo legge canile.md",
+    "zettelkasten/Domain-driven design.md",
+    "zettelkasten/Documentare lavoro su Notion SOS.md",
+    "zettelkasten/Disco Debate.md",
+    "_files/poster-ruvo.jpeg",
+    "_files/norme-piano-regolatore-polignano.pdf",
+    "_files/mappatura-ex-opg.pdf",
+    "_files/legge-canile.pdf",
+    "_files/dyne-org-public-facilitation.pdf",
     "_files/diagramma-kandinsky-2.jpeg",
     "_files/diagramma-kandinsky-1.jpeg",
-    "zettelkasten/A volte rispettare le regole non è sempre l'opzione migliore.md",
-    "zettelkasten/Accessibilità per qualcuno -> Accessibilità per tutti (più o meno).md",
-    "zettelkasten/Insegnare software sulla base delle necessità dello studente.md",
-    "zettelkasten/Testi da strutturare.md",
-    "zettelkasten/App per database – strutturazione testi.md",
-    "zettelkasten/App.md",
-    "zettelkasten/Proporsi come Information Designer.md",
-    "_files/norme-piano-regolatore-polignano.pdf",
-    "zettelkasten/Introduction to logic.md",
-    "zettelkasten/Giochi linguistici.md",
-    "zettelkasten/La bruschezza della burocrazia.md",
-    "zettelkasten/references/CMAP docs.md",
-    "zettelkasten/Scrittura attiva e passiva.md",
-    "zettelkasten/Domain-driven design.md",
-    "zettelkasten/Corso CB.md",
-    "zettelkasten/references/The Design of Everyday Things.md",
-    "zettelkasten/references/Argdown.md",
-    "zettelkasten/references/Algor Education.md",
-    "zettelkasten/references/Akoma Ntoso.md",
-    "zettelkasten/Cartello Polimnia.md",
-    "zettelkasten/references/Untitled",
     "_files/cartello-polimina.jpg",
-    "_files/poster-ruvo.jpeg",
-    "_files/dyne-org-public-facilitation.pdf",
-    "_files/mappatura-ex-opg.pdf",
+    "zettelkasten/references/Untitled",
     "zettelkasten/sos/Untitled",
     "zettelkasten/sos",
     "zettelkasten/Untitled/Untitled",
