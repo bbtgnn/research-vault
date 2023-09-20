@@ -4,23 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "fbf9c1a1d3fb9a68",
+        "id": "997ec909c79ac7d5",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee0d8530c710567",
+            "id": "08f4ae7ffe94a382",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "76553850426f4913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/references/Argdown.md",
+                "file": "zettelkasten/Paper.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
+      },
+      {
+        "id": "8bd8dc97342a68ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3c8bab619ff568e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Lo and Behold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ed09f5d1ac6753d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7959e30ddb52ddb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Araucaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 326.5
   },
   "right": {
     "id": "215599995ff4168d",
@@ -94,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/references/Argdown.md",
+                "file": "zettelkasten/Araucaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/references/Argdown.md",
+                "file": "zettelkasten/Araucaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/references/Argdown.md"
+                "file": "zettelkasten/Araucaria.md"
               }
             }
           }
@@ -155,34 +199,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2c6e5868c506f20",
+  "active": "7959e30ddb52ddb6",
   "lastOpenFiles": [
-    "zettelkasten/references/Algor Education.md",
-    "zettelkasten/references/Argdown.md",
-    "zettelkasten/Information Design.md",
-    "zettelkasten/references/Prolog.md",
-    "zettelkasten/Unificare le app immaginate.md",
-    "zettelkasten/Tool.md",
-    "zettelkasten/Testi da strutturare.md",
-    "zettelkasten/Tempo infusione del té.md",
-    "zettelkasten/Sito.md",
-    "zettelkasten/Scrittura attiva e passiva.md",
-    "zettelkasten/Relazione tra documentazione e interfaccia.md",
-    "zettelkasten/Psicologo per ragazzi dislessici.md",
-    "zettelkasten/Proporsi come Information Designer.md",
-    "zettelkasten/Problemi di etichetta.md",
-    "zettelkasten/Poster serata danzante.md",
-    "zettelkasten/Pagina per presentare tesi.md",
-    "zettelkasten/La bruschezza della burocrazia.md",
-    "zettelkasten/Introduction to logic.md",
-    "zettelkasten/Insegnare software sulla base delle necessità dello studente.md",
-    "zettelkasten/I lupini di Nives.md",
-    "zettelkasten/Giochi linguistici.md",
-    "zettelkasten/Filo.md",
+    "zettelkasten/Argumentation.md",
+    "zettelkasten/Araucaria.md",
+    "zettelkasten/Lo and Behold.md",
+    "zettelkasten/Paper.md",
+    "zettelkasten/Knowledge Management + Human Computer Interaction.md",
+    "zettelkasten/Reinventing Organizations.md",
+    "zettelkasten/International Conference on Information and Knowledge Management.md",
+    "zettelkasten/Treejack – Analisi alberatura sito.md",
+    "zettelkasten/references/Xanadu – Protocollo per l'ipertesto.md",
+    "zettelkasten/How to Make Sense of Any Mess.md",
     "zettelkasten/Esercitazione testo legge canile.md",
-    "zettelkasten/Domain-driven design.md",
-    "zettelkasten/Documentare lavoro su Notion SOS.md",
-    "zettelkasten/Disco Debate.md",
+    "zettelkasten/Diagramma espansione pensiero greci.md",
+    "zettelkasten/Information foraging theory.md",
+    "zettelkasten/references/Ciro Santilli.md",
+    "zettelkasten/Filo.md",
+    "zettelkasten/topics",
+    "zettelkasten/references/The Understanding Group.md",
+    "zettelkasten/Brett Victor.md",
+    "zettelkasten/Didattica.md",
+    "zettelkasten/topics/Reference.md",
+    "zettelkasten/references/Housatonic.md",
+    "zettelkasten/Pseudo-code + AI.md",
+    "zettelkasten/Basic Design della Partecipazione.md",
+    "_templates/_zettel.md",
+    "zettelkasten/Untitled 1.md",
+    "_templates/_zettel_v2.md",
+    "zettelkasten/topics/Information Design.md",
     "_files/poster-ruvo.jpeg",
     "_files/norme-piano-regolatore-polignano.pdf",
     "_files/mappatura-ex-opg.pdf",
@@ -195,7 +240,6 @@
     "zettelkasten/sos/Untitled",
     "zettelkasten/sos",
     "zettelkasten/Untitled/Untitled",
-    "zettelkasten/references",
-    "_files"
+    "zettelkasten/references"
   ]
 }
