@@ -4,64 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "997ec909c79ac7d5",
+        "id": "de45e2fd07b3a565",
         "type": "tabs",
         "children": [
           {
-            "id": "08f4ae7ffe94a382",
+            "id": "e06b4c1b68dcb7f1",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "76553850426f4913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Paper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8bd8dc97342a68ca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3c8bab619ff568e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Lo and Behold.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ed09f5d1ac6753d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7959e30ddb52ddb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Araucaria.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -93,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#comunicazione",
+                "query": "buro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Araucaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Araucaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +126,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dce06df2d45484d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "zettelkasten/Araucaria.md"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -199,35 +156,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7959e30ddb52ddb6",
+  "active": "e06b4c1b68dcb7f1",
   "lastOpenFiles": [
-    "zettelkasten/Argumentation.md",
-    "zettelkasten/Araucaria.md",
-    "zettelkasten/Lo and Behold.md",
-    "zettelkasten/Paper.md",
-    "zettelkasten/Knowledge Management + Human Computer Interaction.md",
-    "zettelkasten/Reinventing Organizations.md",
-    "zettelkasten/International Conference on Information and Knowledge Management.md",
-    "zettelkasten/Treejack – Analisi alberatura sito.md",
-    "zettelkasten/references/Xanadu – Protocollo per l'ipertesto.md",
-    "zettelkasten/How to Make Sense of Any Mess.md",
-    "zettelkasten/Esercitazione testo legge canile.md",
-    "zettelkasten/Diagramma espansione pensiero greci.md",
-    "zettelkasten/Information foraging theory.md",
-    "zettelkasten/references/Ciro Santilli.md",
-    "zettelkasten/Filo.md",
-    "zettelkasten/topics",
-    "zettelkasten/references/The Understanding Group.md",
-    "zettelkasten/Brett Victor.md",
-    "zettelkasten/Didattica.md",
-    "zettelkasten/topics/Reference.md",
-    "zettelkasten/references/Housatonic.md",
+    "zettelkasten/Totalism.org.md",
+    "zettelkasten/Comunicazione Covid UK.md",
+    "zettelkasten/Platform Design Toolkit.md",
+    "_files/uk-covid.jpeg",
+    "zettelkasten/Esercizio di gerarchia visiva.md",
+    "zettelkasten/Se una frase é troppo lunga, probabilmente si può rompere in sotto parti.md",
+    "zettelkasten/Hiragana Practice Sheets.md",
+    "_files/hiragana.png",
+    "_files/gerarchia-visiva.jpeg",
     "zettelkasten/Pseudo-code + AI.md",
-    "zettelkasten/Basic Design della Partecipazione.md",
-    "_templates/_zettel.md",
-    "zettelkasten/Untitled 1.md",
-    "_templates/_zettel_v2.md",
-    "zettelkasten/topics/Information Design.md",
+    "zettelkasten/Inventare notazioni.md",
+    "zettelkasten/Linguaggio di progettazione UX di alto livello.md",
+    "_files/ui-ux-language-2.jpeg",
+    "zettelkasten/App per linkare i frammenti scritti con la loro riformulazione.md",
+    "zettelkasten/Disco Debate.md",
+    "_files/ui-ux-language.jpeg",
+    "zettelkasten/Esplorare il racconto della burocrazia nei media.md",
+    "zettelkasten/Problemi di etichetta.md",
+    "Untitled.canvas",
+    "zettelkasten/Burocrazia.md",
+    "zettelkasten/La bruschezza della burocrazia.md",
+    "zettelkasten/Esercitazione di analisi – Layer di informazione.md",
+    "_files/esercitazione-timer.jpeg",
+    "zettelkasten/Esercitazione.md",
+    "zettelkasten/Sito personale.md",
+    "zettelkasten/Creare siti statici – Notion come CMS.md",
+    "_files/website-sketch.jpeg",
+    "_files/Untitled",
+    "zettelkasten/Psicologia del linguaggio non violento.md",
+    "zettelkasten/Organizzazioni.md",
+    "zettelkasten/Paper.md",
+    "zettelkasten/Araucaria.md",
+    "zettelkasten/Argumentation.md",
+    "zettelkasten/Lo and Behold.md",
+    "zettelkasten/Knowledge Management + Human Computer Interaction.md",
+    "zettelkasten/_topics",
     "_files/poster-ruvo.jpeg",
     "_files/norme-piano-regolatore-polignano.pdf",
     "_files/mappatura-ex-opg.pdf",
@@ -235,11 +201,9 @@
     "_files/dyne-org-public-facilitation.pdf",
     "_files/diagramma-kandinsky-2.jpeg",
     "_files/diagramma-kandinsky-1.jpeg",
-    "_files/cartello-polimina.jpg",
     "zettelkasten/references/Untitled",
     "zettelkasten/sos/Untitled",
     "zettelkasten/sos",
-    "zettelkasten/Untitled/Untitled",
-    "zettelkasten/references"
+    "zettelkasten/Untitled/Untitled"
   ]
 }
