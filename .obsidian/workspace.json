@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de45e2fd07b3a565",
+        "id": "42e7e38d11015fcb",
         "type": "tabs",
         "children": [
           {
-            "id": "e06b4c1b68dcb7f1",
+            "id": "cbe0929ee05e96f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 257.5
   },
   "right": {
     "id": "215599995ff4168d",
@@ -156,8 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e06b4c1b68dcb7f1",
+  "active": "cbe0929ee05e96f5",
   "lastOpenFiles": [
+    "zettelkasten/_topics/App.md",
+    "zettelkasten/Duckabase.md",
+    "zettelkasten/Functional Database Creator – Duckabase.md",
+    "zettelkasten/Inventare notazioni.md",
     "zettelkasten/Totalism.org.md",
     "zettelkasten/Comunicazione Covid UK.md",
     "zettelkasten/Platform Design Toolkit.md",
@@ -168,7 +172,6 @@
     "_files/hiragana.png",
     "_files/gerarchia-visiva.jpeg",
     "zettelkasten/Pseudo-code + AI.md",
-    "zettelkasten/Inventare notazioni.md",
     "zettelkasten/Linguaggio di progettazione UX di alto livello.md",
     "_files/ui-ux-language-2.jpeg",
     "zettelkasten/App per linkare i frammenti scritti con la loro riformulazione.md",
@@ -190,9 +193,6 @@
     "zettelkasten/Organizzazioni.md",
     "zettelkasten/Paper.md",
     "zettelkasten/Araucaria.md",
-    "zettelkasten/Argumentation.md",
-    "zettelkasten/Lo and Behold.md",
-    "zettelkasten/Knowledge Management + Human Computer Interaction.md",
     "zettelkasten/_topics",
     "_files/poster-ruvo.jpeg",
     "_files/norme-piano-regolatore-polignano.pdf",
