@@ -11,12 +11,8 @@
             "id": "cbe0929ee05e96f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/didattica/Idee corso.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/didattica/Idee corso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/didattica/Idee corso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/didattica/Idee corso.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +160,12 @@
   },
   "active": "cbe0929ee05e96f5",
   "lastOpenFiles": [
-    "zettelkasten/Didattica.md",
+    "zettelkasten/Insegnamento.md",
+    "zettelkasten/Marco D'Amore, matematica per l'infanzia.md",
     "zettelkasten/didattica/Idee corso.md",
+    "_files/02-DAmore-Fandino-26-V-2022-SdI-SP-in-continuita.pdf",
+    "_files/01-DAmore-23-V-2022-Educaz-matem-nella-sdI.pdf",
+    "zettelkasten/Didattica.md",
     "zettelkasten/didattica",
     "zettelkasten/_topics/App.md",
     "zettelkasten/Duckabase.md",
@@ -202,8 +198,6 @@
     "zettelkasten/Creare siti statici – Notion come CMS.md",
     "_files/website-sketch.jpeg",
     "_files/Untitled",
-    "zettelkasten/Psicologia del linguaggio non violento.md",
-    "zettelkasten/Organizzazioni.md",
     "zettelkasten/_topics",
     "_files/poster-ruvo.jpeg",
     "_files/norme-piano-regolatore-polignano.pdf",
@@ -212,8 +206,6 @@
     "_files/dyne-org-public-facilitation.pdf",
     "_files/diagramma-kandinsky-2.jpeg",
     "_files/diagramma-kandinsky-1.jpeg",
-    "zettelkasten/references/Untitled",
-    "zettelkasten/sos/Untitled",
-    "zettelkasten/sos"
+    "zettelkasten/references/Untitled"
   ]
 }
