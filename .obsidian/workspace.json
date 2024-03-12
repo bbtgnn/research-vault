@@ -11,8 +11,12 @@
             "id": "cbe0929ee05e96f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/didattica/Es – Reimpaginazione ATAC.md"
+              }
             }
           },
           {
@@ -160,6 +168,9 @@
   },
   "active": "cbe0929ee05e96f5",
   "lastOpenFiles": [
+    "_files/biglietto-atac.jpg",
+    "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
+    "zettelkasten/didattica/Untitled",
     "zettelkasten/Insegnamento.md",
     "zettelkasten/Marco D'Amore, matematica per l'infanzia.md",
     "zettelkasten/didattica/Idee corso.md",
@@ -194,8 +205,6 @@
     "zettelkasten/Esercitazione di analisi – Layer di informazione.md",
     "_files/esercitazione-timer.jpeg",
     "zettelkasten/Esercitazione.md",
-    "zettelkasten/Sito personale.md",
-    "zettelkasten/Creare siti statici – Notion come CMS.md",
     "_files/website-sketch.jpeg",
     "_files/Untitled",
     "zettelkasten/_topics",
@@ -205,7 +214,6 @@
     "_files/legge-canile.pdf",
     "_files/dyne-org-public-facilitation.pdf",
     "_files/diagramma-kandinsky-2.jpeg",
-    "_files/diagramma-kandinsky-1.jpeg",
-    "zettelkasten/references/Untitled"
+    "_files/diagramma-kandinsky-1.jpeg"
   ]
 }
