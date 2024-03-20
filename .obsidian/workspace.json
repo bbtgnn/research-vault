@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e791242ee0c99276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/CMS con Layered Tabs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
+                "file": "zettelkasten/CMS con Layered Tabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
+                "file": "zettelkasten/CMS con Layered Tabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/didattica/Es – Reimpaginazione ATAC.md"
+                "file": "zettelkasten/CMS con Layered Tabs.md"
               }
             }
           },
@@ -166,8 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbe0929ee05e96f5",
+  "active": "e791242ee0c99276",
   "lastOpenFiles": [
+    "zettelkasten/App per fare i budget confrontando le varianti.md",
+    "zettelkasten/CMS con Layered Tabs.md",
+    "_files/cms-layers-tabs.jpg",
+    "zettelkasten/Combinator.md",
+    "zettelkasten/Untitled.md",
     "_files/biglietto-atac.jpg",
     "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
     "zettelkasten/didattica/Untitled",
@@ -201,10 +219,7 @@
     "zettelkasten/Problemi di etichetta.md",
     "Untitled.canvas",
     "zettelkasten/Burocrazia.md",
-    "zettelkasten/La bruschezza della burocrazia.md",
-    "zettelkasten/Esercitazione di analisi – Layer di informazione.md",
     "_files/esercitazione-timer.jpeg",
-    "zettelkasten/Esercitazione.md",
     "_files/website-sketch.jpeg",
     "_files/Untitled",
     "zettelkasten/_topics",
@@ -212,8 +227,6 @@
     "_files/norme-piano-regolatore-polignano.pdf",
     "_files/mappatura-ex-opg.pdf",
     "_files/legge-canile.pdf",
-    "_files/dyne-org-public-facilitation.pdf",
-    "_files/diagramma-kandinsky-2.jpeg",
-    "_files/diagramma-kandinsky-1.jpeg"
+    "_files/dyne-org-public-facilitation.pdf"
   ]
 }
