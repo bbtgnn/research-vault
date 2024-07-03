@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "42e7e38d11015fcb",
+        "id": "635f698f81b1188f",
         "type": "tabs",
         "children": [
           {
-            "id": "cbe0929ee05e96f5",
+            "id": "ae94ab15f42614a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e791242ee0c99276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/CMS con Layered Tabs.md",
+                "file": "zettelkasten/Filo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/CMS con Layered Tabs.md",
+                "file": "zettelkasten/Filo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/CMS con Layered Tabs.md",
+                "file": "zettelkasten/Filo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/CMS con Layered Tabs.md"
+                "file": "zettelkasten/Filo.md"
               }
             }
           },
@@ -179,15 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e791242ee0c99276",
+  "active": "ae94ab15f42614a4",
   "lastOpenFiles": [
-    "zettelkasten/App per fare i budget confrontando le varianti.md",
+    "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
     "zettelkasten/CMS con Layered Tabs.md",
+    "zettelkasten/App per fare i budget confrontando le varianti.md",
     "_files/cms-layers-tabs.jpg",
     "zettelkasten/Combinator.md",
     "zettelkasten/Untitled.md",
     "_files/biglietto-atac.jpg",
-    "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
     "zettelkasten/didattica/Untitled",
     "zettelkasten/Insegnamento.md",
     "zettelkasten/Marco D'Amore, matematica per l'infanzia.md",
