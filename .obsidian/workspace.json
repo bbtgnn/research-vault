@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dd91009abd6a4ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Filo.md",
+                "file": "zettelkasten/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Filo.md",
+                "file": "zettelkasten/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Filo.md"
+                "file": "zettelkasten/Untitled 1.md"
               }
             }
           },
@@ -166,8 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae94ab15f42614a4",
+  "active": "8dd91009abd6a4ae",
   "lastOpenFiles": [
+    "zettelkasten/Filo.md",
+    "zettelkasten/Untitled 1.md",
     "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
     "zettelkasten/CMS con Layered Tabs.md",
     "zettelkasten/App per fare i budget confrontando le varianti.md",
@@ -203,9 +218,7 @@
     "zettelkasten/Disco Debate.md",
     "_files/ui-ux-language.jpeg",
     "zettelkasten/Esplorare il racconto della burocrazia nei media.md",
-    "zettelkasten/Problemi di etichetta.md",
     "Untitled.canvas",
-    "zettelkasten/Burocrazia.md",
     "_files/esercitazione-timer.jpeg",
     "_files/website-sketch.jpeg",
     "_files/Untitled",
