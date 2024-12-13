@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Filo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dd91009abd6a4ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Untitled 1.md",
+                "file": "zettelkasten/Lo and Behold.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buro",
+                "query": "tag:#idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Untitled 1.md",
+                "file": "zettelkasten/Lo and Behold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Untitled 1.md",
+                "file": "zettelkasten/Lo and Behold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Untitled 1.md"
+                "file": "zettelkasten/Lo and Behold.md"
               }
             }
           },
@@ -179,8 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dd91009abd6a4ae",
+  "active": "ae94ab15f42614a4",
   "lastOpenFiles": [
+    "zettelkasten/La bruschezza della burocrazia.md",
+    "zettelkasten/Information foraging theory.md",
+    "zettelkasten/Functional Database Creator – Duckabase.md",
+    "zettelkasten/Idee per progetti.md",
+    "zettelkasten/Differenza tra \"definizione\" e \"implementazione\".md",
+    "zettelkasten/Araucaria.md",
+    "zettelkasten/Creare siti statici – Notion come CMS.md",
+    "zettelkasten/Argumentation.md",
+    "zettelkasten/_topics/Information Design.md",
     "zettelkasten/Filo.md",
     "zettelkasten/Untitled 1.md",
     "zettelkasten/didattica/Es – Reimpaginazione ATAC.md",
@@ -200,24 +196,15 @@
     "zettelkasten/didattica",
     "zettelkasten/_topics/App.md",
     "zettelkasten/Duckabase.md",
-    "zettelkasten/Functional Database Creator – Duckabase.md",
     "zettelkasten/Inventare notazioni.md",
     "zettelkasten/Totalism.org.md",
     "zettelkasten/Comunicazione Covid UK.md",
     "zettelkasten/Platform Design Toolkit.md",
     "_files/uk-covid.jpeg",
-    "zettelkasten/Esercizio di gerarchia visiva.md",
-    "zettelkasten/Se una frase é troppo lunga, probabilmente si può rompere in sotto parti.md",
-    "zettelkasten/Hiragana Practice Sheets.md",
     "_files/hiragana.png",
     "_files/gerarchia-visiva.jpeg",
-    "zettelkasten/Pseudo-code + AI.md",
-    "zettelkasten/Linguaggio di progettazione UX di alto livello.md",
     "_files/ui-ux-language-2.jpeg",
-    "zettelkasten/App per linkare i frammenti scritti con la loro riformulazione.md",
-    "zettelkasten/Disco Debate.md",
     "_files/ui-ux-language.jpeg",
-    "zettelkasten/Esplorare il racconto della burocrazia nei media.md",
     "Untitled.canvas",
     "_files/esercitazione-timer.jpeg",
     "_files/website-sketch.jpeg",
